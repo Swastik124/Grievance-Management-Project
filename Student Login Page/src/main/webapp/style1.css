@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("daisy_field_flower_dark_background_125105_1920x1080.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+div{
+	color:white;
+}
+.ok:hover{
+	background-color: lightgreen;
+}
+button:hover{
+	background-color: lightgreen;
+}
+#reg{
+	color: indianred;
+}
+#reg:hover{
+	color: lightgreen;	
+}
+h1{
+	color: white;
+}
